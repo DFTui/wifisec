@@ -38,7 +38,7 @@ features                                  :
     description                           : 自动连接全国上亿免费WiFi热点，走到哪连到哪，不用密码，太方便了
     fontawesome_icon_name                 : magic
     
-  - title                                 : 网络质量增强
+  - title                                 : 网络质量优化
     description                           : 实时检测当时网络延迟情况，深度优化上网环境，解决卡顿问题
     fontawesome_icon_name                 : mobile
 
