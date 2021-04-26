@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : 随时随地上网
+    description                           : 自动连接全国上亿免费WiFi热点，走到哪连到哪，不用密码，太方便了
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : 网络质量增强
+    description                           : 实时检测当时网络延迟情况，深度优化上网环境，解决卡顿问题
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : 网络安全监测
+    description                           : 实时监测WiFi安全、主动防御风险WiFi，推送可靠安全WiFi，防钓鱼、虚假WiFi通通不用怕
+    fontawesome_icon_name                 : star
 
   # - title                                 : Automatic Icon and Metadata
   #   description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
